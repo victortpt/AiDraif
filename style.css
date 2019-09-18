@@ -152,11 +152,12 @@ margin-right: 6px;
     border-bottom-color: #CBCBCB;
 }
 
-.form-structor {
-    background-color: white;
+.form-registro{
+    background-color: #555555;
     border-radius: 15px;
     height: 550px;
     width: 350px;
+    display: inline-block;
     position: relative;
     overflow: hidden;
 }
